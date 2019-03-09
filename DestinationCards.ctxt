@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=deckFile
+comment0.target=DestinationCards(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ DestCard\r\n\ @param\ String\ deckFile\:\ name\ of\ file\ to\ read\ cards\ from\r\n
+comment1.params=
+comment1.target=void\ resetDestinationDeck()
+comment1.text=\r\n\ resets\ the\ deck\r\n
+comment2.params=shuf
+comment2.target=java.util.ArrayList\ resetCurrentDestinationDeck(java.util.ArrayList)
+comment2.text=\r\n\ accepts\ an\ arraylist\ of\ type\ destination\ card,\ \r\n\ shuffles\ it\ and\ returns\ it\ \r\n\ @param\ ArrayList<DestCard>\ shuf\:\ arraylist\ to\ be\ shuffled\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getDestinationDeck()
+comment3.text=\r\n\ returns\ an\ instance\ of\ a\ shuffled,\ legal\r\n\ destination\ card\ deck\r\n
+numComments=4

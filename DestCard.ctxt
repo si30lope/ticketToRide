@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=x\ y\ z
+comment0.target=DestCard(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ DestCard\r\n\ @param\ String\ x\:\ holds\ starting\ city\ of\ destination\ card\r\n\ @param\ String\ y\:\ holds\ ending\ city\ of\ destination\ card\r\n\ @param\ int\ z\:\ holds\ point\ value\ of\ destination\ card\r\n
+numComments=1

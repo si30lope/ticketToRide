@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=TrainCard(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ TrainCard\r\n\ @param\ String\ x\:\ consists\ of\ the\ color\ the\ train\ \r\n\ card\ will\ become\r\n
+numComments=1

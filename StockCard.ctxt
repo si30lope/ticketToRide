@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=t
+comment0.target=StockCard(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ StockCard\r\n\ \r\n\ @param\ t\ Name\ of\ stock\r\n
+comment1.params=
+comment1.target=void\ takeCard()
+comment1.text=\r\n\ Called\ when\ card\ is\ removed\ from\ stock\ pile\r\n\ \r\n\ @return\ number\ card\ taken\r\n
+numComments=2

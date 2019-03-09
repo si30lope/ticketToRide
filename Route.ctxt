@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=color\ start\ end\ hasStock\ size\ adj\ poly
+comment0.target=Route(java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean,\ int,\ Route,\ java.awt.Polygon)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ type\ Route\r\n\ \r\n\ @param\ color\ the\ Route's\ color\r\n\ @param\ start\ the\ Route's\ start\ city\r\n\ @param\ end\ the\ Route's\ end\ city\r\n\ @param\ hasStock\ if\ the\ Route\ has\ stock\r\n\ @param\ size\ the\ Route's\ size\r\n\ @param\ adj\ the\ Route's\ adjacent\ route\r\n\ @param\ poly\ the\ Route's\ clickable\ region\r\n
+numComments=1
